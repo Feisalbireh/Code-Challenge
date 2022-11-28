@@ -3,9 +3,9 @@
 # Description
 Complete these 3 challenges and make sure it works:
 
-Challenge 1 - Student Grade Generator
-Challenge 2 - Speed Detector
-Challenge 3 - Net Salary Calculator
+- Challenge 1 - Student Grade Generator
+- Challenge 2 - Speed Detector
+- Challenge 3 - Net Salary Calculator
 
 ## Challenge 1: Student Grade Generator (Toy Problem)
 
