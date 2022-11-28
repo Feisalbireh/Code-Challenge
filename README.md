@@ -32,7 +32,7 @@ Running the application on the browser requires the following command.
 # Author
 
 This project is contributed by: 
-[Feisal Bireh](https://github.com/Feisalbireh/Code-Challenge)
+[Feisal Bireh](https://github.com/Feisalbireh)
 
 # License 
 Project License under Apache 2.0
