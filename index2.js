@@ -19,6 +19,6 @@ else if(score >= 60){
 else{
     Grade =`E`
 }
-
+score(56)
 
 
