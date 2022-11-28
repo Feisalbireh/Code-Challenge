@@ -1,3 +1,4 @@
+
 function speedDetector(speed){
 const speedLimit= 70
 const speedRate= 5
@@ -12,7 +13,7 @@ let demPoints = 0
 for(let i = 0; i < speedDiffernce; i+=speedRate){
     demPoints += 1
 
-    if(demeritPoints > 12){
+    if(demPoints > 12){
         return "License suspended"
     }
 }
