@@ -1,26 +1,28 @@
 ## Code Challenge
 
 # Description
-Code Challenge
+Complete these 3 challenges and make sure it works:
+
 Challenge 1 - Student Grade Generator
 Challenge 2 - Speed Detector
 Challenge 3 - Net Salary Calculator
 
 ## Challenge 1: Student Grade Generator (Toy Problem)
 
-1. I used the variable let to have the max at 100. Then I used if else statements to order the letters with the correct grade numbers.
+Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
 
+A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
 
 
 ## Challenge 2: Speed Detector (Toy Problem)
 
-1. I used function and in function I used const variable to show the limit was 70 and 
- I used another const variable to show the rate which was 5 km/s. Then I returned and put "Ok" only if the speed gets under than 70. I then used the let varible to show that if the driver goes above the speed limit they should receive one demerit point.
+Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+
+For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
 
 ## Challenge 3: Net Salary Calculator (Toy Problem)
 
-
-1. I used html for this challenge. I used meta tag to include the data, name and content. Net salary was used as a title in the title tag. I then used the script tag which includes all the var variables with the prompt. I used the gross salary mulitply by 0.2 then to be subtracted by the tax to get the proper Net income and Tax Deduction.
+Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
 
 # Installation
 
