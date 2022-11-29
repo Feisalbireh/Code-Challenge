@@ -26,30 +26,30 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 # Installation
 
-Running the application on the browser requires the following command.
-- I used node to test the Student file, Speed file and Net Salary.
+To use this repo on your machine requires some simple steps
 
 ## Alternative One
-- Open a terminal/command line interface on your computer
+- Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
 
-    git clone https://github.com/Feisalbireh/Code-Challenge.git
+        git clone https://github.com/Feisalbireh/Code-Challenge.git
 
-- Change directory to the reop folder:
+- Change directory to the repo folder:
 
-    cd Code-Challenge
+        cd l1-js-dom
 
--Open it in ``Visual Studio Code``
+- (Optional) Open it in ``Visual Studio Code``
 
-    code .
+        code .
 
 ## Alternative Two
--On the top right corner of this page there is a button labelled "Fork"
--Click on that button to fork the repo to your own account.
--Take on the process in ``Alternative One`` above.
--Remeber to replace your username when cloning.
 
-    git clone https://github.com/your-username-here/Code-Challenge.git
+- On the top right corner of this page there is a button labelled ``Fork``.
+- Click on that button to fork the repo to your own account.
+- Take on the process in ``Alternative One`` above.
+- Remember to replace your username when cloning.
+
+        git clone https://github.com/your-username-here/Code-Challenge.git
 
 ## Running the application 
 
