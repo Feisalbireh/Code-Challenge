@@ -33,7 +33,7 @@ Running the application on the browser requires the following command.
 - Open a terminal/command line interface on your computer
 - Clone the repo by using the following:
 
-    git clone git@github.com:Feisalbireh/Code-Challenge.git
+    git clone https://github.com/Feisalbireh/Code-Challenge.git
 
 - Change directory to the reop folder:
 
