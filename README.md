@@ -1,4 +1,4 @@
-## Code Challenge
+# Code Challenge
 
 # Description
 Complete these 3 challenges and make sure it works:
@@ -28,7 +28,7 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 To use this repo on your machine requires some simple steps
 
-## Alternative One
+### Alternative One
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
 
@@ -36,13 +36,13 @@ To use this repo on your machine requires some simple steps
 
 - Change directory to the repo folder:
 
-        cd l1-js-dom
+        cd Code-Challenege
 
 - (Optional) Open it in ``Visual Studio Code``
 
         code .
 
-## Alternative Two
+### Alternative Two
 
 - On the top right corner of this page there is a button labelled ``Fork``.
 - Click on that button to fork the repo to your own account.
@@ -51,7 +51,7 @@ To use this repo on your machine requires some simple steps
 
         git clone https://github.com/your-username-here/Code-Challenge.git
 
-## Running the application 
+# Running the application 
 
 Running this is very straight forward
 
