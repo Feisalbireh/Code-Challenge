@@ -1,5 +1,9 @@
 const StudentGrading = require("prompt-sync");
 const prompt = StudentGrading();
+//if avg > 79 > 60 = B
+//if avg > 59 > 49 = C
+//if avg > 49 > 40 = D
+//if avg < 40 = E  
 function generator() {
   let grade = prompt("enter your percentage:");
   if (grade <= 100 && grade > 79) {

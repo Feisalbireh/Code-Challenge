@@ -1,7 +1,6 @@
 function speedDetector(speed) {
   const speedLimit = 70;
   const speedRate = 5;
-
   if (speed < speedLimit) {
     return "Ok";
   }
@@ -19,4 +18,4 @@ function speedDetector(speed) {
   return `Points: ${demPoints}`;
 }
 
-console.log(speedDetector(170));
+console.log(speedDetector(80));

@@ -1,11 +1,22 @@
-# Code Challenge
+# Phase-1-Week-1-Code-Challenge
 
 # Description
-Complete these 3 challenges and make sure it works:
 
+Complete these 3 challenges and make sure it works:
+For this Challenge I used JavaScript for all of them.
 - Challenge 1 - Student Grade Generator
+        - I used ``if else statement``
+        - Any grade from 0-100 was set so that each number can have a letter grade.
 - Challenge 2 - Speed Detector
+        - To calculate the speed covered by an individual I used ``if else statement``
 - Challenge 3 - Net Salary Calculator
+        - I used ``if else statement``
+
+# Getting Started
+In order for you to use the content on this repo ensure you have the following:
+
+- A ccomputer that runs on either of the following;(Windows 7+, Linux, Mac OS)
+- nodejs 9.0+
 
 ## Challenge 1: Student Grade Generator (Toy Problem)
 
@@ -57,7 +68,10 @@ Running this is very straight forward
 
 - Use Node and the file name to test all of them.
 
-Example: ``Node Speed.js``
+Example: ``Node student.js`` in your terminal
+
+If you want to test the speed.js file make sure to put the speed in the ``console.log(speedDetector(?))`` where the question mark is.
+
 
 # Author
 

@@ -1,3 +1,9 @@
+//Calculate net Salary 
+//Benefits
+//NHIF
+//NSSF
+//PAYEE
+
 const readline = require('readline').createInterface({
     input: process.stdin,
     output: process.stdout
@@ -16,7 +22,7 @@ const taxRate = (gross) => {
     }
 }
 
-
+//nhif calculation
 const nhifDeduction = (gross) => {
     if (gross <= 5999) {
         return 150
@@ -71,7 +77,7 @@ const nhifDeduction = (gross) => {
     }
 }
 
-
+//nssf calculation
 const nssfDeduction = 400
 
 
