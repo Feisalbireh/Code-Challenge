@@ -1,21 +1,29 @@
-function speedDetector(speed) {
+function speedDetector() {
+  var speed = prompt("input speed in km/l");
   const speedLimit = 70;
   const speedRate = 5;
   if (speed < speedLimit) {
-    return "Ok";
+    return (document.body.innerHTML = `OK`);
   }
 
-  const speedDiffernce = speed - speedLimit;
+  const speedDifference = speed - speedLimit;
 
-  let demPoints = 0;
-  for (let i = 0; i < speedDiffernce; i += speedRate) {
-    demPoints += 1;
+  let demeritPoints = 0;
+  for (let i = 0; i < speedDifference; i += speedRate) {
+    demeritPoints += 1;
 
-    if (demPoints > 12) {
-      return "License suspended";
+    if (demeritPoints > 12) {
+      // return 'License suspended'
+      document.body.innerHTML = "License suspended";
     }
   }
-  return `Points: ${demPoints}`;
+
+  // return `Points: ${demeritPoints}`
+  document.body.innerHTML = `Points: ${demeritPoints}`;
+
+  // let speed = document.getElementById('fdf')
 }
 
-console.log(speedDetector(80));
+speedDetector();
+
+// console.log(speedDetector(speed));

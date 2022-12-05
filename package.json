@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Feisalbireh/Code-Challenge/issues"
   },
-  "homepage": "https://github.com/Feisalbireh/Code-Challenge#readme"
+  "homepage": "https://github.com/Feisalbireh/Code-Challenge#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

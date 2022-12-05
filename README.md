@@ -66,11 +66,16 @@ To use this repo on your machine requires some simple steps
 
 Running this is very straight forward
 
+-In your terminal run `npm init`
+-After that run `npm install prompt-sync`
+
 - Use Node and the file name to test all of them.
 
 Example: ``Node student.js`` in your terminal
 
-If you want to test the speed.js file make sure to put the speed in the ``console.log(speedDetector(?))`` where the question mark is.
+To run the `speed.js` open the index.html file using the live server.
+
+To run the netsalary.js file just enter this into the terminal `node netsalary.js`
 
 
 # Author
