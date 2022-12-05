@@ -75,7 +75,7 @@ Example: ``Node student.js`` in your terminal
 
 To run the `speed.js` open the index.html file using the live server.
 
-To run the netsalary.js file just enter this into the terminal `node netsalary.js`
+To run the `netsalary.js` file just enter this into the terminal `node netsalary.js`
 
 
 # Author
